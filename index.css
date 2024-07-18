@@ -1,0 +1,45 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-color: #1c1c1c;
+  color: white;
+  padding-top: 50px;
+}
+
+.container {
+  background-color: #1f2937;
+  padding: 50px;
+}
+
+p {
+    font: 12px;
+    margin-top: -20px;
+    margin-bottom: 30px;
+}
+
+button {
+  background-color: #10b981;
+  color: white;
+  border: 0;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+span {
+  color: #10b981;
+}
+
+.password-container {
+  background-color: #273549;
+  width: 130px;
+  height: 23px;
+  display: inline-block;
+  margin-top: 20px;
+  border-radius: 5px;
+  font-size: 12px;
+  text-align: center;
+  padding-top: 5px;
+
+}
+
